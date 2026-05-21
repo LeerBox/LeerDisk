@@ -28,7 +28,18 @@ LeerDisk scans and removes junk files across 17 system categories and 7 browsers
 
 ## Screenshots
 
-> *Add your screenshots here.*
+![Dashboard](screenshots/dashboard.png)
+
+<table>
+  <tr>
+    <td><img src="screenshots/cleaner.png"  alt="System Cleaner"/></td>
+    <td><img src="screenshots/browser.png"  alt="Browser Cache"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/advanced.png" alt="Advanced Tools"/></td>
+    <td><img src="screenshots/about.png"    alt="About"/></td>
+  </tr>
+</table>
 
 ---
 
