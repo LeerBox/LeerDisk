@@ -49,7 +49,7 @@ LeerDisk scans and removes junk files across 17 system categories and 7 browsers
 ## Installation
 
 ```bat
-git clone https://github.com/your-username/LeerDisk.git
+git clone https://github.com/LeerBox/LeerDisk.git
 cd LeerDisk
 install.bat
 ```
