@@ -1,6 +1,6 @@
 # LeerDisk
 
-> **Professional Windows 11 disk cleaner with a native-feeling UI.**
+> **𝐋𝐞𝐞𝐫𝐃𝐢𝐬𝐤 • Any Disk, Any Time**
 
 LeerDisk scans and removes junk files across 17 system categories and 7 browsers, reclaiming disk space without touching anything important. It is built with Python and CustomTkinter, uses the official **Segoe UI Variable** typeface and **Segoe Fluent Icons** throughout, and requests administrator privileges automatically so every cleaning operation has the access it needs.
 
